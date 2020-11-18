@@ -1,4 +1,4 @@
-# Títol de el Projecte
+# Títol del Projecte
 
 _Aquí va un paràgraf que descrigui el que és el projecte_
 
