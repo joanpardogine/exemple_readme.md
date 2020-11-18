@@ -97,7 +97,7 @@ Aquest projecte està sota la Llicència (La teva Llicència) - miri el fitxer [
 
 
 ---
-__Advertisement :)__
+__Advertisement__
 
 - __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
   resize in browser.
@@ -108,7 +108,7 @@ You will like those projects!
 
 ---
 
-# h1 Heading 8-)
+# h1 Heading
 ## h2 Heading
 ### h3 Heading
 #### h4 Heading
@@ -216,6 +216,17 @@ var foo = function (bar) {
 
 console.log(foo(5));
 ```
+
+``` html
+<HTML>
+  <body>
+  </body>
+</HTML>
+```
+
+
+
+
 
 ## Tables
 
